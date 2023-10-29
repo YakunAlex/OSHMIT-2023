@@ -18,7 +18,7 @@
 
 [Журавлики](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=150)
 
-**Сложные **
+**Сложные**
 
 [Конец уроков](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=160)
 
