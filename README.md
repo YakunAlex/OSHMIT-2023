@@ -1,5 +1,7 @@
 # Типы данных, ввод, вывод
 
+**Обязательные**
+
 [А+Б](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)
 
 [Бисер](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=144)
@@ -7,6 +9,8 @@
 [Эния](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=145)
 
 [Следующее и предыдущее](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=152)
+
+**Обычные**
 
 [Два бандита](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=146)
 
