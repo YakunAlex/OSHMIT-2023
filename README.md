@@ -40,7 +40,7 @@
 
 [Больше - меньше](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=29&id_problem=162)
 
-[Зарплата](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=29&id_problem=165)
+[Зарплата](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=29&id_problem=165) (напишите два решения: через функции max/min, и через if/else)
 
 [Баскетбол](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=29&id_problem=166)
 
