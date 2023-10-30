@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cmath>
+// cmath - библиотека, в которой есть функция abs
 using namespace std;
 
 int main() {
@@ -15,4 +17,7 @@ int main() {
 
 	// или вот так
 	cout << max(min(x, y), x) << endl;
+
+	// модуль числа:
+	cout << abs(x);
 }
