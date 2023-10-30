@@ -68,7 +68,7 @@ TP-Link_1846 - 54225589
 
 [Игра с ладьей](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=30&id_problem=174)
 
-[Алиса и Базилио](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=2&id_topic=32)
+[Алиса и Базилио](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=2&id_topic=32) (можно использовать циклы)
 
 **Сложные**
 
