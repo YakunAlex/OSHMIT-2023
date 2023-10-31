@@ -100,7 +100,7 @@ TP-Link_1846 - 54225589
 
 [Загадка](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=195)
 
-# Цикл while
+## Цикл while
 
 [Список квадратов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=204)
 
