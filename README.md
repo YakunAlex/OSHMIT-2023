@@ -123,3 +123,13 @@ TP-Link_1846 - 54225589
 [Второй максимум](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=223)
 
 [Количество максимумов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=224)
+
+## НОД и НОК
+
+**Обычные**
+
+[НОД](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=36&id_problem=198)
+
+[НОК](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=36&id_problem=199)
+
+[Апельсины](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=36&id_problem=200)
