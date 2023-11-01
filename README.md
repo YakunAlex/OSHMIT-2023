@@ -4,6 +4,8 @@ TP-Link_1846 - 54225589
 
 Keenetic-5976 - xPS8dL3b
 
+Kabinet1 - 12345678
+
 # Ссылки на материалы
 
 [Стандартные функции](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=1&id_topic=28)
