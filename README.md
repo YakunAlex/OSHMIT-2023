@@ -84,9 +84,13 @@ TP-Link_1846 - 54225589
 
 ## Цикл for
 
+**Обязательные**
+
 [Монетки](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=190)
 
 [Арбузы](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=191)
+
+**Основные**
 
 [Автобусная экскурсия](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=193)
 
