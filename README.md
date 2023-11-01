@@ -110,7 +110,7 @@ TP-Link_1846 - 54225589
 
 [Минимальный делитель](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=205)
 
-[Степени двойки](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=206)
+[Степени двойки](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=206) (задачу нужно решить без функции pow)
 
 [Банковские проценты](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=210)
 
