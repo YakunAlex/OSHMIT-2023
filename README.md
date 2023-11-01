@@ -106,7 +106,13 @@ TP-Link_1846 - 54225589
 
 ## Цикл while
 
+**Обязательные**
+
+[Максимум последовательности](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=221)
+
 [Список квадратов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=204)
+
+**Основные**
 
 [Минимальный делитель](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=205)
 
@@ -115,8 +121,6 @@ TP-Link_1846 - 54225589
 [Банковские проценты](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=210)
 
 [Среднее последовательности](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=219)
-
-[Максимум последовательности](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=221)
 
 [Элементы большие предыдущего](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=222)
 
