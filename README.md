@@ -167,3 +167,15 @@ Kabinet1 - 12345678
 [Статистика](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=703)
 
 [Домашнее задание](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=704)
+
+**Сложные**
+
+[Волосатый бизнес](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=705)
+
+[Подарки Деда Мороза](https://acmp.ru/index.asp?main=task&id_task=317)
+
+[Вычеркивание](https://acmp.ru/index.asp?main=task&id_task=273)
+
+[Сумма - 2](https://acmp.ru/index.asp?main=task&id_task=398)
+
+[Точки на Домино](https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=16&id_topic=23&id_problem=120)
