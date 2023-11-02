@@ -145,3 +145,21 @@ Kabinet1 - 12345678
 [НОК](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=36&id_problem=199)
 
 [Апельсины](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=36&id_problem=200)
+
+# Массивы
+
+[Линейный поиск](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=691)
+
+[Максимальный элемент](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=693)
+
+[Контроперация](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=694)
+
+[Сбор черники](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=695)
+
+[Ближайшее число](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=692)
+
+[Налоги](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=696)
+
+[Статистика](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=703)
+
+[Домашнее задание](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=704)
