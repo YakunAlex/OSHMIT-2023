@@ -2,7 +2,7 @@
 
 # Как ботать после лагеря
 
-1) Дорешивать [acmp.ru](https://acmp.ru/) ([курс по C++](https://acmp.ru/asp/do/index.asp?main=course&id_course=1), потом [курс по олимпиадным задачам](https://acmp.ru/asp/do/index.asp?main=course&id_course=2)).
+1) Дорешивать [acmp.ru](https://acmp.ru/) ([курс по C++](https://acmp.ru/asp/do/index.asp?main=course&id_course=1)), потом [курс по олимпиадным задачам](https://acmp.ru/asp/do/index.asp?main=course&id_course=2)).
 
 2) Раунды на [codeforces.com](https://codeforces.com/contests) (учавствуете в соревновании на Div 3 или Div 4, потом *посмотреть разбор и дорешать задачи*).
 
